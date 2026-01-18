@@ -1,14 +1,14 @@
 # IncluDO
-## Progetto Typescript
+## La struttura del progetto
 <ol>
   <li>
-    <p>Implementare una barra di ricerca (Google style) in cui l'utente possa inserire una categoria letteraria</p>
+    <p>Creare interfacce per i partecipanti, le aziende e i corsi</p>
   </li>
   <li>
-    <p>Premendo "invio" o cliccando l'apposito pulsante di ricerca l'utente può visualizzare il titolo, la copertina e gli autori dei libri appartenenti alla categoria richiesta</p>
+    <p>Creare le classi per implementare le istanze</p>
   </li>
   <li>
-    <p>Attraverso l'apposto pulsante l'utente può visualizzare la descrizione del libro</p>
+    <p>Istanziare oggetti per le diverse classi</p>
   </li>
 </ol>
 
@@ -25,4 +25,4 @@ Per tornare alla <em>sezione di ricerca</em> è sufficiente premere l’<em>icon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JavaScript" width="60" height="60"/>
 </p>
 
-### Link alla pagina: <a>https://git-ste.github.io/owly/</a> 
+### Link al CodePen <a>https://codepen.io/Stefano-Gollo/pen/yyJMqjJ</a> 
