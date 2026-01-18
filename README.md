@@ -1,6 +1,6 @@
 # IncluDO
 ## Il progetto
-Il progetto prevede lo sviluppo di un sistema in TypeScript che modella la struttura operativa di una scuola di formazione professionale per migranti (incluDO), concentrandosi sulle interazioni tra migranti, corsi di formazione e aziende partner.
+Il progetto prevede lo sviluppo di un sistema in TypeScript che modella la struttura operativa di una scuola di formazione professionale per migranti (IncluDO), concentrandosi sulle interazioni tra migranti, corsi di formazione e aziende partner.
 ## La struttura del progetto
 <ol>
   <li>
