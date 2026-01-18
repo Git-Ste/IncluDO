@@ -27,6 +27,7 @@ Il sistema è composto da tre istanze:
     <p>Azienda: rappresenta le aziende partner che offrono opportunità lavorative. Un’azienda può proporre una specifica posizione lavorativa a un partecipante formato.</p>
   </li>
 </ul>
+Le classi Partecipante, Corso e Azienda implementano le interfacce corrispondenti, fornendo l’implementazione concreta dei metodi definiti. A partire dalle classi vengono create le istanze, che rappresentano gli oggetti reali del sistema. Le interazioni operative avvengono esclusivamente tra questi oggetti. Un oggetto di tipo Partecipante interagisce con un oggetto di tipo Corso richiamando il metodo di iscrizione, che a sua volta utilizza i metodi esposti dall’interfaccia del corso per aggiornare l’elenco degli iscritti.
 
 ## Linguaggi utilizzati
 <p>
